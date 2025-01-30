@@ -1,11 +1,9 @@
  Hi, My name is S Sonika <br>
- I’m currently pursuing BTECH in CSE branch<br>
+ I’m currently pursuing BTECH in Computer Science and Engineering<br>
  I am from Andhra Pradesh,India<br>
- Feel free to reach out :<br>
+ Contact Details :<br>
     Email ID: sainusonika@gmail.com<br>
     LinkedIN: https://www.linkedin.com/in/ssonikaa<br>
- TMI: The S in my name is the initial letter of my surname which is "Sainu" and my first name is Sonika   <br>
-⚡ Fun fact: All the "C" are pronounced differently in word "Pacific Ocean"
 
 <!---
 SSonikaa/SSonikaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
