@@ -1,6 +1,5 @@
- Hi, My name is S Sonika <br>
- I’m currently pursuing BTECH in Computer Science and Engineering<br>
- I am from Andhra Pradesh,India<br>
+Hi <br>
+I'm S Sonika, final year student pursuing B.Tech in  Computer Science and Engineering.  I am passionate about software development and love solving real-world problems through technology.
  Contact Details :<br>
     Email ID: sainusonika@gmail.com<br>
     LinkedIN: https://www.linkedin.com/in/ssonikaa<br>
