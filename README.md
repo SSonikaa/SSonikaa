@@ -3,6 +3,7 @@ I'm S Sonika, final year student pursuing B.Tech in  Computer Science and Engine
  Contact Details :<br>
     Email ID: sainusonika@gmail.com<br>
     LinkedIN: https://www.linkedin.com/in/ssonikaa<br>
+    Resume : https://drive.google.com/file/d/1IG-f_le1tB-0UEtyMQqyk4bInteYJWzM/view?usp=drivesdk
 
 <!---
 SSonikaa/SSonikaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
