@@ -1,30 +1,13 @@
 ### Hi there 👋 I'm S Sonika!
 
-🎓 Computer Science student | 💻 Backend & Full-Stack Developer | 🛠️ Tech Enthusiast
+💻 Software Developer | 🛠️ Tech Enthusiast | 🤖 AI & ML Learner
 
----
+I'm a passionate software developer with a strong interest in building scalable and efficient web applications. I love crafting robust **RESTful APIs**, designing clean **frontend interfaces**, and automating infrastructure to make development smoother and faster.
 
-🔹 Currently working as an Intern at **Erasmith**  
-🔹 Previously interned at **NTPC**, where I built a real-time vehicle speed monitoring system  
-🔹 Passionate about building scalable web applications, REST APIs, and automation scripts  
-🔹 Strong in **Python, Java, JavaScript, FastAPI, Spring Boot, React, MySQL, MongoDB**
+My core technical strengths lie in **Python**, **Java**, **JavaScript**, and frameworks like **FastAPI**, **Spring Boot**, and **React**. I'm also well-versed in working with both **relational (MySQL)** and **non-relational (MongoDB)** databases, allowing me to handle a wide range of data-driven projects.
 
----
+Whether it's backend development, full-stack web apps, or DevOps automation, I’m always excited to solve real-world problems with clean and efficient code.
 
-### 🚀 Projects
-- 🔧 **Inventory Management System** – Spring Boot + React.js + SQL | [GitHub](https://github.com/SSonikaa/Inventory-Management-System)
-- 💬 **Real-Time Chat App** – Node.js + Socket.io + MongoDB | [GitHub](https://github.com/SSonikaa/Real-Time-Chatapp-Twirly-Chat-)
-- 📊 **Sentiment Analysis Tool** – Python + VADER + Flask | [GitHub](https://github.com/SSonikaa/Sentiment-analysis/)
-
----
-
-### 🏅 Achievements
-- 🌟 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/ssonika/)
-- 🧭 Awarded by **Uttar Pradesh Government** for excellence in Scouts and Guides
-- 📜 Certified in Web Technologies (HTML, CSS, JS)
-
----
-
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/ssonikaa)
-- 📨 sainusonika@gmail.com
+### 📫 Let’s connect and build something amazing together
+💼 [LinkedIn](https://linkedin.com/in/ssonikaa)
+📨 sainusonika@gmail.com
